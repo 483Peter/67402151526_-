@@ -1,2 +1,33 @@
-# 67402151526_-
-Project Description, Objectives, Target Users, Main Features, Technology, Project Status, Team
+# 67402151526_ศุภโชค อุเทนสุต
+# Smart Learning Platform (6712345678-web-project)
+
+## Project Description
+แพลตฟอร์มการเรียนรู้ออนไลน์สำหรับนักศึกษาสายเทคโนโลยีเว็บ เพื่อช่วยจัดเก็บและส่งเสริมการเรียนรู้ด้วยตนเอง
+
+## Objectives
+- เพื่อเป็นศูนย์กลางรวบรวมเนื้อหาและแบบฝึกหัดการประยุกต์ใช้เว็บเทคโนโลยี
+- เพื่อเพิ่มประสิทธิภาพการส่งงานและการติดตามความก้าวหน้าของนักศึกษา
+- เพื่อส่งเสริมกระบวนการเรียนรู้แบบ Self-Directed Learning
+
+## Target Users
+- นักศึกษารายวิชาการประยุกต์ใช้เทคโนโลยีเว็บและแพลตฟอร์ม
+- อาจารย์ผู้สอนและผู้ตรวจประเมินรายวิชา
+
+## Main Features
+- ระบบแสดงผลเนื้อหาการเรียนรู้ตามสัปดาห์
+- ระบบอัปโหลดและส่งใบงานการเรียนรู้
+- Dashboard สรุปคะแนนและความก้าวหน้าการเรียนรู้
+
+## Technology
+- HTML5 / CSS3 / JavaScript (ES6+)
+- Node.js / Express
+- GitHub REST API
+
+## Project Status
+In Development (Sprint 1)
+
+## Team
+1. นายA (6712345678) - Lead Developer
+2. น.ส.B (6712345679) - Frontend Developer
+3. นายC (6712345680) - Backend Developer
+4. น.ส.D (6712345681) - UI/UX & Tester
